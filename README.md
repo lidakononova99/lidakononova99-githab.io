@@ -5,6 +5,7 @@ _Сайт для пользователя lidakononova99_
 
 # Анализ лицензий GNU General Public License,BSD License,Creative Commons.
 
+
 # _1.GNU General Public License_
 ![Картинка](https://firebearstudio.com/blog/wp-content/uploads/2016/01/GNU-General-Public-License.png "GNU")
 
