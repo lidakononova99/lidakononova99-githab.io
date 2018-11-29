@@ -23,3 +23,6 @@ _Сайт для пользователя lidakononova99_
 
 [Задание 5.2](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/52.md)
 
+[Задание 6](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/6.md)
+
+
