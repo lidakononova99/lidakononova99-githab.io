@@ -5,7 +5,6 @@ _Сайт для пользователя lidakononova99_
 
 [Анализ лицензий](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D0%B9.md)
 
-# Создание субтитров на YouTube
 [Скринкаст](https://www.youtube.com/watch?v=k8k1m_y32Mc)
 
 # Эссе на тему "Как современная цифровая среда влияет на школьников?"
