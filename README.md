@@ -45,3 +45,4 @@ _Сайт для пользователя lidakononova99_
 
 # Вариативная часть
 [Задание 4.1](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/1.md)
+[Задание 5.2](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/5.2.md)
