@@ -42,3 +42,6 @@ _Сайт для пользователя lidakononova99_
 [Задание 11.1](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/111.md)
 
 [Задание 11.2](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/112.md)
+
+# Вариативная часть
+[]()
