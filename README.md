@@ -29,6 +29,8 @@ _Сайт для пользователя lidakononova99_
 
 [Задание 6](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/6.md)
 
+[Задание 7](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/7.md)
+
 [Задание 9.1](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/91.md)
 
 [Задание 9.2](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/92.md)
