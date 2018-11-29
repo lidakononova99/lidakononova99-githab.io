@@ -13,7 +13,7 @@ _Сайт для пользователя lidakononova99_
 
 [Задание 1.2](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/%D0%B7%D0%B2%D0%B4%D0%B2%D0%BD%D0%B8%D0%B5%201.2.md)
 
-[Задание 2.1](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/12.md)
+[Задание 2.1](21.md)
 
 
 
