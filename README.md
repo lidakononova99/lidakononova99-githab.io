@@ -53,3 +53,5 @@ _Сайт для пользователя lidakononova99_
 [Задание 8.2](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/882.md)
 
 [Задание 9.2](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/9.2.md)
+
+[Задние 10.2](https://github.com/lidakononova99/lidakononova99-githab.io/blob/master/10.2.md)
